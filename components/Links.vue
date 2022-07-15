@@ -4,7 +4,7 @@
       <em>Things i am apart of</em>
     </h2>
     <ul>
-      <li>hedral.art</li>
+      <li><a href="https://hedral.art">hedral.art</a></li>
       <li>...</li>
     </ul>
   </div>
